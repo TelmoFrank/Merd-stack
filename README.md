@@ -1,1 +1,1 @@
-# Merd-stack for goals example
+# Merd-stack for goals examples
